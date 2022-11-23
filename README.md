@@ -1,4 +1,13 @@
 ### Hi there 👋
+- I like to develop professional web-sites using HTML5 and CSS3.  
+- I’m currently learning JavaScript, eager to bring interactivity into my own portfolio and psychological projects.  
+- I’m currently working on a web-site about Andragogy because this topic is one of my key professional interests.  
+- Fun fact about me is that it would be eventually my 3rd professional background after Management and Psychology and I feel like coming back to my roots as my first job was all about Computers, IT and Web-development where I functioned as a Marketing specialist and a team-leader... 
+- I was always keen on launching creative products and services meeting estethics and usability criteria.
+- Hopefully my contribution here would be fruitful...
+
+BR,  
+Shamanka FE / Svetlana Groiss.
 
 <!--
 **ShamankaFE/shamankafe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
